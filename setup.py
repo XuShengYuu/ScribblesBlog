@@ -30,7 +30,7 @@ setup(
         'coreapi==2.3.3',
         'django-redis==4.8.0',
         'hiredis==0.2.0',
-        'django-debug-toolbar==1.9.1',
+        'django-debug-toolbar==1.11.1',
         'django-silk==2.0.0',
         'django-simple-captcha==0.5.9',
         'captcha==0.2.4',
