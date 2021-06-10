@@ -16,7 +16,7 @@ setup(
 
     include_package_data=True, 
     install_requires=[
-        'django==2.0.9',
+        'django==2.2.24',
         'gunicorn==19.8.1',
         'supervisor==4.0.0dev0',
         'xadmin==2.0.1',
